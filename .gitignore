@@ -20,6 +20,7 @@ App
 Subjects/*
 !Subjects/README.md
 
+
 !Subjects/Falisse_et_al_2022/
 Subjects/Falisse_et_al_2022/*
 !Subjects/Falisse_et_al_2022/*.osim
@@ -44,3 +45,12 @@ Subjects/gait1018/*
 !Subjects/gait1018/*.osim
 !Subjects/gait1018/*.md
 !Subjects/gait1018/settings*.m
+
+exo_project/PredSimResults/
+Subjects/gait1018_exo/
+F_*.dll
+F_*.lib
+F_*.exp
+F_*.cpp
+F_*.casadi
+F_*_IO.mat
